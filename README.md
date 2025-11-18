@@ -22,9 +22,9 @@ Cryptography-and-Network-Security/
 ├── 09_SHA_Implementation/
 ├── 10_RSA_Encryption_Decryption/
 ├── 11_Diffie_Hellman_Key_Exchange/
-├── 12_PGP_Authentication_Confidentiality.py
+├── 12_PGP_Authentication_Confidentiality/
 │
-└── reports/Assignment_Question.pdf
+└── Question.pdf
 ```
 
 ---
